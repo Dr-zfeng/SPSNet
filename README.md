@@ -12,7 +12,7 @@ We test our code in Python 3.7, CUDA 11.1, cuDNN 8, and PyTorch 1.7.1. We provid
 
 # Dataset
 
-You can download our release dataset **SSP** from [Here]() with password **ssp1**. The SSP dataset is the first dataset with semi-real images for the segmentation of spacecraft payloads.
+You can download our release dataset **SSP** from [Here](https://pan.baidu.com/s/1RMoH8kf2Z137gojdtcbfUQ?pwd=rv25) with password **rv25**. The SSP dataset is the first dataset with semi-real images for the segmentation of spacecraft payloads.
 
 # Pretrained weights
 The pre-trained weights of SPSNet can be downloaded from [here](https://labsun-me.polyu.edu.hk/zfeng/MAFNet/).
